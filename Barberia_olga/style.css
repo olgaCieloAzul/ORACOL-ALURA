@@ -1,13 +1,13 @@
-
 .titulo-principal{
     padding-left: 30px;
 }
+
 #banner{
-    width: 100%;
+    width:100%;
 }
 
 .principal{
-    background: #cccccc;
+    background: #CCCCCC;
     padding: 20px;
 }
 
@@ -19,30 +19,31 @@ p{
     text-align: center;
 }
 
-em strong{ 
-    color: red;                           
-
+em strong{
+    color:red;
 }
 
 #mision{
-    font: size -20px;
+    font-size: 20px;
 }
 
-.diferenciales {
-    background: #ffffff;
+.diferenciales{
+    background: #FFFFFF;
     padding: 30px;
 }
 
-.items{ 
-    front-style: italic;
+.items{
+    font-style: italic;
 }
+
 ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
-    margin:-right: 15%;
+    margin-right: 15%;
 }
 
 .imagenDiferenciales{
     width: 50%;
 }
+
